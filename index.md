@@ -3,7 +3,7 @@
 
 
 ## Machine Learning
-### Project 1: Housing Prices vs. Nuclear Power Plants
+### [Project 1: Housing Prices vs. Nuclear Power Plants](https://github.com/king-sules/Nuclear_Matrix_Data)
 The following is my python and R codes I used for my undergraduate thesis paper. The basis of my paper was to capture house price variation with distance from a nearby nuclear power plant. I used the town of Plymouth, Massachussets for my house data. 
 
 I continued to clean, and later find correlations in my data. Prices were originally listed in my dataset, but distance was obtained using geopy and geopandas library. By using these libraries, I obtained distance from each individual house listed to the power plant.
@@ -13,7 +13,7 @@ My paper essentially looked at how the Fukushima Daiichi event effected house pr
 Lastly I used R to run multiple regressions.
 
 
-<img width="400" alt="plymouth" src="https://user-images.githubusercontent.com/54907087/140659135-7cc55f6b-087c-4d19-9b3c-298bfdbbee41.png">
+<img width="300" alt="plymouth" src="https://user-images.githubusercontent.com/54907087/140659135-7cc55f6b-087c-4d19-9b3c-298bfdbbee41.png">
 
 
 
