@@ -13,7 +13,7 @@ My paper essentially looked at how the Fukushima Daiichi event effected house pr
 Lastly I used R to run multiple regressions.
 
 
-<img width="300" alt="plymouth" src="https://user-images.githubusercontent.com/54907087/140659135-7cc55f6b-087c-4d19-9b3c-298bfdbbee41.png">
+<img width="300" img height="300" alt="plymouth" src="https://user-images.githubusercontent.com/54907087/140659135-7cc55f6b-087c-4d19-9b3c-298bfdbbee41.png">
 
 
 
