@@ -1,6 +1,26 @@
-## Welcome To My Portfolio!
-# I have listed projects I have done in the past. 
-# Categories are organized by: Machine Learning, Data Analysis, and Mechanical Engineering
+# Welcome To My Portfolio!
+## I have listed projects I have done in the past. 
+## Categories are organized by: Machine Learning, Data Analysis, and Mechanical Engineering
+
+
+## Machine Learning
+### Project 1: Housing Prices vs. Nuclear Power Plants
+The following is my python and R codes I used for my undergraduate thesis paper. The basis of my paper was to capture house price variation with distance from a nearby nuclear power plant. I used the town of Plymouth, Massachussets for my house data. 
+
+I continued to clean, and later find correlations in my data. Prices were originally listed in my dataset, but distance was obtained using geopy and geopandas library. By using these libraries, I obtained distance from each individual house listed to the power plant.
+
+My paper essentially looked at how the Fukushima Daiichi event effected house prices. I created a new column in my dataset, a Fukushima dummy, where a value of 1 was assigned if the indivial house sold after 2011 and 0 before 2011. I also categorically grouped my distance column, in incriments of 4 miles, to control price variation in rural areas.
+
+Lastly I used R to run multiple regressions.
+<img width="597" alt="plymouth" src="https://user-images.githubusercontent.com/54907087/140659135-7cc55f6b-087c-4d19-9b3c-298bfdbbee41.png">
+
+
+[Here is the full thesis paper](https://github.com/king-sules/Nuclear_Matrix_Data/blob/master/Final%20Thesis.pdf)
+
+
+
+All of my codes are listed in this repository and I also included an original sample of data I recieved for the year 2007, which can be ran through each file.
+
 
 You can use the [editor on GitHub](https://github.com/king-sules/Sules_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
