@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome To My Portfolio!
+# I have listed projects I have done in the past. 
+# Categories are organized by: Machine Learning, Data Analysis, and Mechanical Engineering
 
 You can use the [editor on GitHub](https://github.com/king-sules/Sules_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
