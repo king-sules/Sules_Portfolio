@@ -22,6 +22,14 @@ All of my codes are listed in this repository and I also included an original sa
 
 [Here is the full thesis paper](https://github.com/king-sules/Nuclear_Matrix_Data/blob/master/Final%20Thesis.pdf)
 
+### Project 4: Airplane Wing Vibration Analysis
+In this project I analysized a sample airplane wing to determine the effects of vibration towards the whole airplane. 
+
+The wing was experimentally divided into many degrees of freedom, and furthermore vibration modes were determined with the help of a Matlab code I created. 
+
+Results were also visualized with ANSYS software.
+
+Full report was created with latex and can be found here
 You can use the [editor on GitHub](https://github.com/king-sules/Sules_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
