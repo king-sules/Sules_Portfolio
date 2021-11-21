@@ -8,7 +8,7 @@ The basis of this project is to review if Covid-19 had an effect on the populari
 
 We used ML models such as 1D Gaussian Mixture Model, Random Forest Regression, and also Clustering. We determined accuracy by using MSE and MAE. More information is available in detail with the link.
 
-<img width="400" alt="Boroughs" src="https://user-images.githubusercontent.com/54907087/142779263-b1ac2b05-a04d-4aea-a0d0-13323740f9e1.png">
+<img width="650" alt="Boroughs" src="https://user-images.githubusercontent.com/54907087/142779263-b1ac2b05-a04d-4aea-a0d0-13323740f9e1.png">
 
 ### [Project 2: Housing Prices vs. Nuclear Power Plants](https://github.com/king-sules/Nuclear_Matrix_Data)
 The following is my python and R codes I used for my undergraduate thesis paper. The basis of my paper was to capture house price variation with distance from a nearby nuclear power plant. I used the town of Plymouth, Massachussets for my house data. 
