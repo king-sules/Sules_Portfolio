@@ -3,7 +3,14 @@
 
 
 ## Machine Learning
-### [Project 1: Housing Prices vs. Nuclear Power Plants](https://github.com/king-sules/Nuclear_Matrix_Data)
+###[Project 1: Covid-19 Effects on Yellow Taxi in NYC](https://github.com/king-sules/Covid_Taxi/blob/main/Covid-19%20Taxi.ipynb)
+The basis of this project is to review if Covid-19 had an effect on the popularity of taxi in NYC. We take into consideration the year 2018 and 2020. We also take into consideration the months during the lockdown, April and May, and the months when NYC had less restriction, August and September (2020). We compare them with the same months in 2018 when there were no Covid-19 restrictions.
+
+We used ML models such as 1D Gaussian Mixture Model, Random Forest Regression, and also Clustering. We determined accuracy by using MSE and MAE. More information is available in detail with the link.
+
+<img width="300" alt="Boroughs" src="https://user-images.githubusercontent.com/54907087/142779263-b1ac2b05-a04d-4aea-a0d0-13323740f9e1.png">
+
+### [Project 2: Housing Prices vs. Nuclear Power Plants](https://github.com/king-sules/Nuclear_Matrix_Data)
 The following is my python and R codes I used for my undergraduate thesis paper. The basis of my paper was to capture house price variation with distance from a nearby nuclear power plant. I used the town of Plymouth, Massachussets for my house data. 
 
 I continued to clean, and later find correlations in my data. Prices were originally listed in my dataset, but distance was obtained using geopy and geopandas library. By using these libraries, I obtained distance from each individual house listed to the power plant.
