@@ -3,7 +3,7 @@
 
 
 ## Machine Learning
-###[Project 1: Covid-19 Effects on Yellow Taxi in NYC](https://github.com/king-sules/Covid_Taxi/blob/main/Covid-19%20Taxi.ipynb)
+### [Project 1: Covid-19 Effects on Yellow Taxi in NYC](https://github.com/king-sules/Covid_Taxi/blob/main/Covid-19%20Taxi.ipynb)
 The basis of this project is to review if Covid-19 had an effect on the popularity of taxi in NYC. We take into consideration the year 2018 and 2020. We also take into consideration the months during the lockdown, April and May, and the months when NYC had less restriction, August and September (2020). We compare them with the same months in 2018 when there were no Covid-19 restrictions.
 
 We used ML models such as 1D Gaussian Mixture Model, Random Forest Regression, and also Clustering. We determined accuracy by using MSE and MAE. More information is available in detail with the link.
