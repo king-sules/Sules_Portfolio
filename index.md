@@ -47,13 +47,11 @@ We use python to visualize our results. Afterwards, we use facebooks fbprophet t
 
 ## Mechanical Engineering 
 ### [Project 5: Airplane Wing Vibration Analysis](https://github.com/king-sules/Vibrations/blob/main/Multi_DOF_Response.m)
-In this project I analysized a sample airplane wing to determine the effects of vibration towards the whole airplane. 
+In this project I analyze a sample airplane wing to determine the effects of vibration towards the whole airplane. 
 
 The wing was experimentally divided into many degrees of freedom, and furthermore vibration modes were determined with the help of a Matlab code I created. 
 
 Results were also visualized with ANSYS software 
-
-<img width="451" alt="Screen Shot 2021-11-28 at 8 17 27 PM" src="https://user-images.githubusercontent.com/54907087/143794858-40ba1d3a-aab5-4643-87a4-627a041bd47f.png">
 
 Full report was created with LaTeX and can be found [here](https://github.com/king-sules/Vibrations/blob/main/Vibration_Project%20(2).pdf)
 
@@ -61,9 +59,10 @@ Full report was created with LaTeX and can be found [here](https://github.com/ki
 <img width="451" alt="Screen Shot 2021-11-28 at 8 17 27 PM" src="https://user-images.githubusercontent.com/54907087/143794858-40ba1d3a-aab5-4643-87a4-627a041bd47f.png">
 
 
+### [Project 6: Design for Manufacturability (Tire)]
+For this project I Created a design of a sample tire, using the Taguchi method, to ensure the best manufacturability of the tire and reduce tire wear by selecting specific parameters. These parameters included slip angle, tension strength and the friction of the tire. The results were calculated using Minitab.
 
-
-You can use the [editor on GitHub](https://github.com/king-sules/Sules_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The report is linked [here](https://github.com/king-sules/Vibrations/blob/main/Taguchi%20Project%20Tire%20Wear.pdf)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
