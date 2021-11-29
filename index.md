@@ -29,14 +29,40 @@ All of my codes are listed in this repository and I also included an original sa
 
 [Here is the full thesis paper](https://github.com/king-sules/Nuclear_Matrix_Data/blob/master/Final%20Thesis.pdf)
 
-### Project 4: Airplane Wing Vibration Analysis
+## Data Analysis
+
+### Project 4: [Covid-19 Breakout Analysis](https://github.com/king-sules/Covid) 
+This project focused on the Covid-19 outbreak. We simply follow the cases from the original covid outbreak from December 2019 to May 2020. We try to analyze which countries are most effected by the virus and try to visualize it through Rstudios.
+
+The data comes from John Hopkins.
+
+### Project 5: [Taxi vs. Uber](https://github.com/king-sules/Taxi)
+An analysis of taxi popularity in NYC after tlc new policy implemented in August 2018
+
+In August 2018 the taxi & limousine commision passed a new policy which restricted the rides given to for hire vehicles, such as Uber and Lyft. This was to allow the yellow cab to compete with these rising companies
+
+Through this project, we analysed how many rides taxi cabs give out every day, and month. We then compare this to rides that fhv vehicles give out. We use Postgres SQL to essentially gather our information.
+
+We use python to visualize our results. Afterwards, we use facebooks fbprophet to predict the future trends in rides given in both fhv and taxi.
+
+## Mechanical Engineering 
+### Project 5: [Airplane Wing Vibration Analysis](https://github.com/king-sules/Vibrations/blob/main/Multi_DOF_Response.m)
 In this project I analysized a sample airplane wing to determine the effects of vibration towards the whole airplane. 
 
 The wing was experimentally divided into many degrees of freedom, and furthermore vibration modes were determined with the help of a Matlab code I created. 
 
-Results were also visualized with ANSYS software.
+Results were also visualized with ANSYS software 
 
-Full report was created with latex and can be found here
+<img width="451" alt="Screen Shot 2021-11-28 at 8 17 27 PM" src="https://user-images.githubusercontent.com/54907087/143794858-40ba1d3a-aab5-4643-87a4-627a041bd47f.png">
+
+Full report was created with LaTeX and can be found [here](https://github.com/king-sules/Vibrations/blob/main/Vibration_Project%20(2).pdf)
+
+
+<img width="451" alt="Screen Shot 2021-11-28 at 8 17 27 PM" src="https://user-images.githubusercontent.com/54907087/143794858-40ba1d3a-aab5-4643-87a4-627a041bd47f.png">
+
+
+
+
 You can use the [editor on GitHub](https://github.com/king-sules/Sules_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
