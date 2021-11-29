@@ -36,7 +36,7 @@ This project focused on the Covid-19 outbreak. We simply follow the cases from t
 
 The data comes from John Hopkins.
 
-### Project 5: [Taxi vs. Uber](https://github.com/king-sules/Taxi)
+### [Project 5: Taxi vs. Uber](https://github.com/king-sules/Taxi)
 An analysis of taxi popularity in NYC after tlc new policy implemented in August 2018
 
 In August 2018 the taxi & limousine commision passed a new policy which restricted the rides given to for hire vehicles, such as Uber and Lyft. This was to allow the yellow cab to compete with these rising companies
@@ -46,7 +46,7 @@ Through this project, we analysed how many rides taxi cabs give out every day, a
 We use python to visualize our results. Afterwards, we use facebooks fbprophet to predict the future trends in rides given in both fhv and taxi.
 
 ## Mechanical Engineering 
-### Project 5: [Airplane Wing Vibration Analysis](https://github.com/king-sules/Vibrations/blob/main/Multi_DOF_Response.m)
+### [Project 5: Airplane Wing Vibration Analysis](https://github.com/king-sules/Vibrations/blob/main/Multi_DOF_Response.m)
 In this project I analysized a sample airplane wing to determine the effects of vibration towards the whole airplane. 
 
 The wing was experimentally divided into many degrees of freedom, and furthermore vibration modes were determined with the help of a Matlab code I created. 
