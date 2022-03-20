@@ -31,12 +31,12 @@ All of my codes are listed in this repository and I also included an original sa
 
 ## Data Analysis
 
-### [Project 4: Covid-19 Breakout Analysis](https://github.com/king-sules/Covid) 
+### [Project 3: Covid-19 Breakout Analysis](https://github.com/king-sules/Covid) 
 This project focused on the Covid-19 outbreak. We simply follow the cases from the original covid outbreak from December 2019 to May 2020. We try to analyze which countries are most effected by the virus and try to visualize it through Rstudios.
 
 The data comes from John Hopkins.
 
-### [Project 5: Taxi vs. Uber](https://github.com/king-sules/Taxi)
+### [Project 4: Taxi vs. Uber](https://github.com/king-sules/Taxi)
 An analysis of taxi popularity in NYC after tlc new policy implemented in August 2018
 
 In August 2018 the taxi & limousine commision passed a new policy which restricted the rides given to for hire vehicles, such as Uber and Lyft. This was to allow the yellow cab to compete with these rising companies
@@ -59,10 +59,10 @@ Full report was created with LaTeX and can be found [here](https://github.com/ki
 <img width="451" alt="Screen Shot 2021-11-28 at 8 17 27 PM" src="https://user-images.githubusercontent.com/54907087/143794858-40ba1d3a-aab5-4643-87a4-627a041bd47f.png">
 
 
-### [Project 6: Design for Manufacturability (Tire)]
+### [Project 6: Design for Manufacturability (Tire)](https://github.com/king-sules/Vibrations/blob/main/Taguchi%20Project%20Tire%20Wear.pdf)
 For this project I Created a design of a sample tire, using the Taguchi method, to ensure the best manufacturability of the tire and reduce tire wear by selecting specific parameters. These parameters included slip angle, tension strength and the friction of the tire. The results were calculated using Minitab.
 
 The report is linked [here](https://github.com/king-sules/Vibrations/blob/main/Taguchi%20Project%20Tire%20Wear.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
